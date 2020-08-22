@@ -1,6 +1,7 @@
 # PHYS 112: General Physics Laboratory, Fall 2020
 					
 ## Instructor: Jon Weisbaum, [jweisbaum@mail.sfsu.edu](mailto:jweisbaum@mail.sfsu.edu)
+## [Drive Link](https://bit.ly/32haMrM)
 
 ## Section: PHYS112-09, Thursdays 12:30 - 3:15 PM
 ## PHYS 112 Lab Coordinator: Professor Andrew Sturner, [astuner@sfsu.edu](mailto:astuner@sfsu.edu)
@@ -9,6 +10,8 @@ PHYS 112 is the laboratory companion to the PHYS 111 General Physics lecture cou
 The primary purpose of this hands-on lab class is to provide students an opportunity to observe and
 investigate the physical phenomena introduced in the corresponding lecture course.
 
+![Alt Text](https://media.giphy.com/media/3ohs88j0jPszpGCbYY/giphy.gif)
+
 ## Student Learning Outcomes:
 * Apply appropriate methods of analysis to raw data. 
 * Carry out common laboratory procedures correctly and adhere to instructions on laboratory safety; recognize hazardous situations and act appropriately. 
@@ -16,10 +19,14 @@ investigate the physical phenomena introduced in the corresponding lecture cours
 * Explain the scientific method, including concepts of hypothesis and experimental controls, and why objectivity is essential.
 * Apply critical thinking in the laboratory and recognize whether results and conclusions make sense. 
 
+![Alt Text](https://media.giphy.com/media/OCu7zWojqFA1W/giphy.gif)
+
 ## Required Learning Materials:
 * An internet-connected device, to enable completion of online simulations and other activities, as well as submission of assignments.
 * Scientific calculator or mobile app.
 * Other materials may be requested, but accommodations will be made for those without access to these materials.
+
+![Alt Text](https://media.giphy.com/media/mCClSS6xbi8us/giphy.gif)
 
 ## Course Policies:
 ### Attendance and Participation
